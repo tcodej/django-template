@@ -1,0 +1,6 @@
+vars.conf
+
+.DS_Store
+*.log
+*.pyc
+*.sqlite3

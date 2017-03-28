@@ -1,0 +1,7 @@
+django
+django-cors-headers
+django-wysiwyg-redactor
+boto
+psycopg2
+requests
+pillow

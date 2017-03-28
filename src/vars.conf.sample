@@ -1,0 +1,9 @@
+export ENVIRONMENT_NAME = "test"
+
+export PROJECT_DB_NAME = "django-template"
+export PROJECT_DB_USER = "default-user"
+export PROJECT_DB_PASSWORD = "default-user-password"
+export PROJECT_DB_HOST = "localhost"
+
+export AWS_ACCESS_KEY_ID = ""
+export AWS_SECRET_ACCESS_KEY = ""
